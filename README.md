@@ -23,7 +23,7 @@ Hi! I’m Sudarshan — professional napper, part-time coder, full-time sleeper 
 - 🌐 **Web:** React, Firebase, Next.js  
 - 🎮 **Game Dev:** Unity, Flappy Cow Project  
 - 🧰 **Other tools:** Git, VS Code,  
-- 💡 **Secret skill:** Turning coffee into bugs ☕🐛  
+- 💡 **Secret skill:** Creating chaos and calling it “features” 😈💡
 
 ---
 
