@@ -3,7 +3,7 @@
 
 <p float="left">
 Hi! I’m Sudarshan — professional napper, part-time coder, full-time sleeper 😴💻  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBhODVqZjJyaWcxODNuenc2N2l4aXU0NWlkN3loaWJhc2t1cG9iYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="300" align="right">
+<img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966 width="300" align="right">
 </p>
 
 
