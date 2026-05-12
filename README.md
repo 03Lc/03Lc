@@ -4,7 +4,7 @@
 
 ```diff
 + IT Student
-+ Web Developer
+     🖥️
 + Building the Future
 ```
 
