@@ -12,6 +12,7 @@
 
 + Building the Future
 ```
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading%20Face.png" alt="Pleading Face" width="250" height="250" align="right" />
 
 ---
 ### 🌙 About Me
