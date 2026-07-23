@@ -16,7 +16,7 @@
 alt="Face with Spiral Eyes" 
 width="250" 
 height="250" 
-align="left" />
+align="right" />
 ---
 
 ### 🌙 About Me
