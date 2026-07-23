@@ -12,7 +12,11 @@
 
 + Building the Future
 ```
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" 
+alt="Face with Spiral Eyes" 
+width="25" 
+height="25" 
+align="left" />
 ---
 
 ### 🌙 About Me
