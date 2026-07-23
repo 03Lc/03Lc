@@ -1,3 +1,8 @@
+<table>
+<tr>
+<td>
+
+```diff
 + IT Student
      🖥️
 + Building the Future
