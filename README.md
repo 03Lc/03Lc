@@ -7,6 +7,8 @@
      🖥️
 + Building the Future
 
+</table>
+```diff
 ### 🌙 About Me
 - 😴 Nap enthusiast (5–6 naps/day minimum requirement)  z
 - 💻 Writes code… mostly in dreams  
