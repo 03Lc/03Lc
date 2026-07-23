@@ -12,12 +12,10 @@
 
 + Building the Future
 ```
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" 
-alt="Face with Spiral Eyes" 
-width="200" 
-height="200" 
-align="right" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png"
+width="180"
+height="180"
+alt="Face with Spiral Eyes" />
 ---
 ### 🌙 About Me
 - 😴 Nap enthusiast (5–6 naps/day minimum requirement)
