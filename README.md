@@ -14,8 +14,8 @@
 ```
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" 
 alt="Face with Spiral Eyes" 
-width="250" 
-height="250" 
+width="200" 
+height="200" 
 align="right" />
 ---
 
